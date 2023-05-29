@@ -176,7 +176,7 @@
             this.listBoxListaVeiculosSaida.FormattingEnabled = true;
             this.listBoxListaVeiculosSaida.HorizontalScrollbar = true;
             this.listBoxListaVeiculosSaida.ItemHeight = 15;
-            this.listBoxListaVeiculosSaida.Location = new System.Drawing.Point(0, 377);
+            this.listBoxListaVeiculosSaida.Location = new System.Drawing.Point(0, 380);
             this.listBoxListaVeiculosSaida.Name = "listBoxListaVeiculosSaida";
             this.listBoxListaVeiculosSaida.Size = new System.Drawing.Size(657, 289);
             this.listBoxListaVeiculosSaida.TabIndex = 12;
@@ -233,7 +233,7 @@
             // 
             this.panel7.BackColor = System.Drawing.Color.Black;
             this.panel7.Controls.Add(this.labelCadastro);
-            this.panel7.Location = new System.Drawing.Point(13, 86);
+            this.panel7.Location = new System.Drawing.Point(12, 86);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(637, 45);
             this.panel7.TabIndex = 16;
@@ -300,7 +300,7 @@
             this.panel2.BackColor = System.Drawing.Color.Black;
             this.panel2.Controls.Add(this.labelDataAtual);
             this.panel2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.panel2.Location = new System.Drawing.Point(998, 4);
+            this.panel2.Location = new System.Drawing.Point(1021, 4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(168, 47);
             this.panel2.TabIndex = 0;
@@ -308,9 +308,9 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Desafio02_WF.Properties.Resources.user__2_;
-            this.pictureBox4.Location = new System.Drawing.Point(1172, 0);
+            this.pictureBox4.Location = new System.Drawing.Point(1195, 4);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(74, 51);
+            this.pictureBox4.Size = new System.Drawing.Size(43, 41);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox4.TabIndex = 16;
             this.pictureBox4.TabStop = false;
@@ -331,9 +331,9 @@
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Black;
             this.pictureBox3.Image = global::Desafio02_WF.Properties.Resources.power_switch__1_;
-            this.pictureBox3.Location = new System.Drawing.Point(1242, -2);
+            this.pictureBox3.Location = new System.Drawing.Point(1223, 0);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(74, 52);
+            this.pictureBox3.Size = new System.Drawing.Size(96, 51);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox3.TabIndex = 14;
             this.pictureBox3.TabStop = false;
@@ -354,7 +354,7 @@
             this.panel6.Controls.Add(this.panel5);
             this.panel6.Location = new System.Drawing.Point(12, 86);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(641, 669);
+            this.panel6.Size = new System.Drawing.Size(637, 669);
             this.panel6.TabIndex = 17;
             // 
             // panel5
