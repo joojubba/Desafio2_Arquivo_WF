@@ -6,13 +6,11 @@
 
 Construir um sistema em Visual Studio, C# e com Windows Form para entrada, saídas de veículos e as devidas cobranças.
 
- <a href="https://github.com/Ernakh/academia_AtosUFN_DotNet_4/blob/main/03-exercicios-e-desafios/13_Alternativa2_Arquivos_WF_Estacionamento
+ - <a href="https://github.com/Ernakh/academia_AtosUFN_DotNet_4/blob/main/03-exercicios-e-desafios/13_Alternativa2_Arquivos_WF_Estacionamento
 /">Regras</a>
 
 
 ## ✅ Realizado:
-
-O desafio conta com duas pastas:
 
 Desafio2 Arquivos WF (Windows Forms) 🔻
 
