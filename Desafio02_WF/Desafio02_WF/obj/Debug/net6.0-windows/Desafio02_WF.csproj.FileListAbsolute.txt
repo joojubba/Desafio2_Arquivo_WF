@@ -15,3 +15,4 @@ C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa2_Desaf
 C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa2_DesafioArquivos\Alternativa2_DesafioArquivos\Desafio2Arquivo_WF\Desafio02_WF\Desafio02_WF\obj\Debug\net6.0-windows\Desafio02_WF.pdb
 C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa2_DesafioArquivos\Alternativa2_DesafioArquivos\Desafio2Arquivo_WF\Desafio02_WF\Desafio02_WF\obj\Debug\net6.0-windows\Desafio02_WF.genruntimeconfig.cache
 C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa2_DesafioArquivos\Alternativa2_DesafioArquivos\Desafio2Arquivo_WF\Desafio02_WF\Desafio02_WF\obj\Debug\net6.0-windows\ref\Desafio02_WF.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa2_DesafioArquivos\Alternativa2_DesafioArquivos\Desafio2Arquivo_WF\Desafio02_WF\Desafio02_WF\obj\Debug\net6.0-windows\Desafio02_WF.Properties.Resources.resources

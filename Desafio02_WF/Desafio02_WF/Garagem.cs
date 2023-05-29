@@ -55,7 +55,7 @@ namespace Desafio02_WF
                 TimeSpan tempoPermanencia = horaSaida - veiculo.HoraEntrada;
                 int minutos = (int)tempoPermanencia.TotalMinutes;
                 veiculo.TempoPermanencia = minutos;
-                veiculo.ValorCobrado = Math.Ceiling(veiculo.TempoPermanencia/60.0) * valorHora;
+                veiculo.ValorCobrado = Math.Ceiling(veiculo.TempoPermanencia / 60.0) * valorHora;
                 listaEntrada.Remove(veiculo);
                 listaSaida.Add(veiculo);
             }
