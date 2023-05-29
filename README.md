@@ -16,7 +16,7 @@ Desafio2 Arquivos WF (Windows Forms) 🔻
 
 ![DESAFIO02](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/5325d031-6345-43f3-820d-9baee8dad8d0)
 
-Para cadastrar o veículo é necessário digitar a placas, informar apenas a hora e selecionar se deseja inserir o veículo na garagem ou se é um veículo com saída da garagem, ao lado consta a listbox para que possa ser visualizado os veículos. 
+Para cadastrar o veículo é necessário digitar a placa, informar apenas a hora e selecionar se deseja dar entrada no veículo na garagem ou se deseja dar a saída do veículo na garagem, ao lado consta a listbox para que possa ser visualizado os veículos. 
 
 
 📚 Referências: 
@@ -25,7 +25,7 @@ Para cadastrar o veículo é necessário digitar a placas, informar apenas a hor
 
 - <a href="https://youtu.be/JgBqsIffWdUI">Para o uso de Windows Forms</a>
 
-- - <a href="https://learn.microsoft.com/en-us/dotnet/standard/base-types/parsing-datetime">Para a conversão</a>
+- <a href="https://learn.microsoft.com/en-us/dotnet/standard/base-types/parsing-datetime">Para a conversão</a>
 
 - <a href="https://youtu.be/nY_Xko9LBeA">Relógio Digital</a>
 
